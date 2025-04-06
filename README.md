@@ -41,6 +41,7 @@ OUTPUT :
 [sales_report.pdf](https://github.com/user-attachments/files/19620942/sales_report.pdf)
 
 
+
 ![Image](https://github.com/user-attachments/assets/66f9e667-43d8-4743-afdf-c92122a255f8)
 
 
