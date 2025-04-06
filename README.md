@@ -29,7 +29,7 @@ a) csv: For reading the input CSV file.
 b) datetime: To include the current date in the report.
 c) statistics: For calculating statistical measures like mean.
 The output PDF for this program will have:
-a) A header with the current date (April 1, 2025, in this case)
+a) A header with the current date (April 6, 2025, in this case)
 b) A summary section with key metrics
 c) A detailed table of all transactions
 d) Professional formatting with colored headers and gridlines
