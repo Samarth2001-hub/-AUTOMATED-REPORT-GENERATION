@@ -36,3 +36,10 @@ d) Professional formatting with colored headers and gridlines
 
 This program is a practical tool for automating report generation from structured data, ideal for small-scale business analytics or educational purposes.
 
+OUTPUT :
+
+[sales_report.pdf](https://github.com/user-attachments/files/19620942/sales_report.pdf)
+
+
+
+
